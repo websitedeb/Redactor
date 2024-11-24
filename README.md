@@ -1,5 +1,5 @@
 
-# Redactor
+# [Redactor-Logo](./img/brand.png) | Redactor
 
 Redactor is a lightweight library for conditional rendering, context management, and navigation in React applications.
 
