@@ -1,5 +1,4 @@
-
-# ![Redactor-Logo](https://raw.githubusercontent.com/websitedeb/image_hoster/refs/heads/main/redactor.png) | Redactor
+# <img src="https://raw.githubusercontent.com/websitedeb/image_hoster/refs/heads/main/redactor.png" alt="Redactor-Logo" width=100px height=100px /> | Redactor
 
 Redactor is a lightweight library for conditional rendering, context management, and navigation in React applications.
 
