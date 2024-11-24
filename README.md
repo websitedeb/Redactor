@@ -112,3 +112,12 @@ This library is licensed under the MIT License. See the LICENSE file for details
 ## Contributing
 
 Feel free to open issues or pull requests on the [GitHub repository](https://github.com/websitedeb/Redactor).
+
+## Made Using
+<a href="https://react.dev">
+  <img src="https://clipground.com/images/react-logo-png-7.png" alt="React" width="50" height="50">
+</a>
+
+<a href="https://reactrouter.com/">
+  <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" alt="React Router Dom" width="50" height="50">
+</a>
