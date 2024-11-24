@@ -24,7 +24,7 @@ Wrap your app or part of it with the `BadgeProvider` to set a badge value.
 
 ```jsx
 import React from "react";
-import { useBadge, BadgeProvider } from "your-react-badge-module";
+import { useBadge, BadgeProvider } from "react-redactor";
 
 function App() {
     return (
@@ -47,7 +47,7 @@ Use the `Protect` component to conditionally render components based on the badg
 
 ```jsx
 import React from "react";
-import { Protect } from "your-react-badge-module";
+import { Protect } from "react-redactor";
 
 const ProceedComponent = () => <h1>Welcome!</h1>;
 const ReturnComponent = () => <h1>Access Denied!</h1>;
@@ -71,7 +71,7 @@ Redirect users based on a validation function.
 
 ```jsx
 import React from "react";
-import { useProtection } from "your-react-badge-module";
+import { useProtection } from "react-redactor";
 
 function App() {
     const validationFunc = () => true; // Replace with your logic
