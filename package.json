@@ -1,7 +1,7 @@
 {
-  "name": "redactor",
+  "name": "react-redactor",
   "version": "1.0.0",
-  "description": "route protector",
+  "description": "Redactor is a lightweight library for conditional rendering, context management, and navigation in React applications.",
   "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

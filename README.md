@@ -1,7 +1,7 @@
 
-# React Badge Module
+# Redactor
 
-React Badge Module is a lightweight library for conditional rendering, context management, and navigation in React applications.
+Redactor is a lightweight library for conditional rendering, context management, and navigation in React applications.
 
 ## Features
 - Simple badge-based access control using React Context.
@@ -13,7 +13,7 @@ React Badge Module is a lightweight library for conditional rendering, context m
 Install the module via npm:
 
 ```
-npm install your-react-badge-module
+npm install react-redactor
 ```
 
 ## Usage
