@@ -113,7 +113,7 @@ This library is licensed under the MIT License. See the LICENSE file for details
 
 Feel free to open issues or pull requests on the [GitHub repository](https://github.com/websitedeb/Redactor).
 
-## Made Using
+## Uses
 <a href="https://react.dev">
   <img src="https://clipground.com/images/react-logo-png-7.png" alt="React" width="50" height="50">
 </a>
