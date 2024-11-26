@@ -1,6 +1,6 @@
 {
   "name": "react-redactor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Redactor is a lightweight library for conditional rendering, context management, and navigation in React applications.",
   "main": "index.jsx",
   "scripts": {
